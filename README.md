@@ -1,6 +1,6 @@
 # Lex-to-accept-even-a
 Sample code of LEX program to accept even number of a's.\
-Make sure to check output with all kinds of input.
+Make sure to check output with all types of input string.
 ## Code
 
 ```lex
